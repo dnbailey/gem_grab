@@ -16,7 +16,7 @@ You will need Python3 and pygame-zero.
 
 ## License
 
-This project is licensed under the CC0 1.0 Universal License - see the LICENSE.md file for details.
+This project is licensed under the CC0 1.0 Universal License - see the [LICENSE](blob/master/LICENSE) file for details.
 
 ## Acknowledgments
 
