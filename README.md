@@ -2,6 +2,8 @@
 
 Source files for a game development tutorial using the [Pygame Zero library](https://pygame-zero.readthedocs.io/en/stable/index.html).
 
+Check out the [video series](https://www.youtube.com/playlist?list=PLZ2BUWIFlBqqQ6axW4kW_wACcMGOCrTrY).
+
 ## Getting Started
 
 ### Dependencies
